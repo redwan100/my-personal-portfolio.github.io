@@ -1,0 +1,33 @@
+#popUp {
+    display: none;
+    box-shadow: 0px 0px 17px;
+    padding: 10px;
+    margin-top: 22px;
+    border-radius: 5px;
+}
+
+#close {
+    font-size: 30px;
+    margin-left: 90%;
+    cursor: pointer;
+    color: crimson;
+}
+
+#cls {
+    margin-left: 90%;
+    cursor: pointer;
+    font-size: 30px;
+    /* color: crimson; */
+
+
+
+}
+
+#login-form {
+    display: none;
+    box-shadow: 0px 0px 17px;
+    padding: 20px;
+    border-radius: 5px;
+    overflow: hidden;
+    word-wrap: inherit;
+}
